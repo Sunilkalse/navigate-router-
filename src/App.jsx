@@ -18,7 +18,8 @@ const App = () => {
                 <Route path='/Home' element={<Home/>}/>
            </Routes>
         </Router>
-    </div> 
+        <h1></h1>
+    </div>      
   )
 }
 
